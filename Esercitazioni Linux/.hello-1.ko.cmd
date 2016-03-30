@@ -1,0 +1,1 @@
+cmd_/home/operating/EsercitazioniLinux/hello-1.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.11-2-common/scripts/module-common.lds --build-id  -o /home/operating/EsercitazioniLinux/hello-1.ko /home/operating/EsercitazioniLinux/hello-1.o /home/operating/EsercitazioniLinux/hello-1.mod.o
